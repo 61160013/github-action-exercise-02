@@ -35,5 +35,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "weera-github-action-02"
-          heroku_email: "wkasetsin@gmail.com"
+          heroku_app_name: "nonpawit-github-action-02"
+          heroku_email: "61160013@go.buu.ac.th"
